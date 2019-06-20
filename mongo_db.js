@@ -1,6 +1,6 @@
 var mongodb = require('mongodb');
 
-var mongoClient = mongodb.MongoClient;
+var MongoClient = mongodb.MongoClient;
 
 var url = 'mongodb+srv://admin:admin@exdatabase-4y1xa.mongodb.net/test?retryWrites=true&w=majority';
 
