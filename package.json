@@ -1,0 +1,22 @@
+{
+  "name": "mongodbherokupractice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mongo_db.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlatarTheBlueWizard/MongoDBHerokuPractice.git"
+  },
+  "author": "Ryan Gale",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlatarTheBlueWizard/MongoDBHerokuPractice/issues"
+  },
+  "homepage": "https://github.com/AlatarTheBlueWizard/MongoDBHerokuPractice#readme",
+  "dependencies": {
+    "mongodb": "^3.2.7"
+  }
+}
